@@ -1,0 +1,1 @@
+Time on GGX is ${model.ggxTime}
