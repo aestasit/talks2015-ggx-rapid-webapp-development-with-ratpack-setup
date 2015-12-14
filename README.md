@@ -1,9 +1,8 @@
 
 # Introduction
 
-This is demo code that used during presentation on JDD 2015 in Krakow. 
-It gives an overview of Ratpack features and a simple use case on how 
-you can effectively use it for your microservices.
+This is demo code that used during presentation on Groovy & Grails eXchange 2015 in London. 
+It gives an overview of Ratpack features.
 
 Before you can run the samples you will need to:
 
@@ -88,7 +87,3 @@ Non-blocking HTTP client implementation coming with Ratpack is used to aggregate
 Enjoy!
 
 ![Front page](https://raw.githubusercontent.com/aestasit/talks2015-ggx-rapid-webapp-development-with-ratpack-setup/master/SHOP_FRONT.png)
-
-
- 
-
